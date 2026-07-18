@@ -108,6 +108,4 @@ Gym-Churn-Analysis-PowerBI/
 
 Aspiring Data Analyst | Data Science & Analytics | Power BI | SQL | Python | Machine Learning
 
-LinkedIn: *(Add your LinkedIn)*
-
-GitHub: *(Add your GitHub Profile)*
+LinkedIn: https://www.linkedin.com/in/ankit-more-6795673b0/
